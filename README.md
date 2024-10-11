@@ -29,7 +29,18 @@ Here are some ideas to get you started:
 - Networking: TCP/IP, DNS, Routing, VPN Programming
 - Monitoring and Logging: Prometheus, Grafana, ELK
 - Distributed Tracing/Observability: Honeycomb, AWS Xray, Rollbar
-- Databases: MySQL, AuroraDB, MongoDB, DynamoDB
+- Databases: MySQL, AuroraDB, MongoDB, DynamoDB, Microsoft SQL Server
 - Version Control: Git
-- Project Management: Prince2, DevOps, Agile, ITIL3 foundation
-
+- Identity and Security - AWS IAM 
+- Project Management: Prince2, Agile, ITIL3 foundation
+- ITSM Tools: JIRA, Confluence, ServiceNow, Salesforce
+Programming Languages ( Basic understanding)
+- HTML, Javascript, Python
+  
+🔍 Undergoing Learning:
+- AWS Cloud Security Solutions Architect Associate. 
+- Cybersecurity fundamentals.
+- Python programming, Linux CLI, BASH Programming.
+💼 Prospective Career interests:
+- I’m looking for opportunities in Cloud Computing.
+     Cloud Engineer, Technical Analyst, SRE.
