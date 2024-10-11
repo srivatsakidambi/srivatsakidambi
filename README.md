@@ -41,6 +41,8 @@ Programming Languages ( Basic understanding)
 - AWS Cloud Security Solutions Architect Associate. 
 - Cybersecurity fundamentals.
 - Python programming, Linux CLI, BASH Programming.
+  
 💼 Prospective Career interests:
-- I’m looking for opportunities in Cloud Computing.
-     Cloud Engineer, Technical Analyst, SRE.
+  
+  I’m looking for opportunities in Cloud Computing.
+  - Cloud Engineer, Technical Analyst, SRE.
